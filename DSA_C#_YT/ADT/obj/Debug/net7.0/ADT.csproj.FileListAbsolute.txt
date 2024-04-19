@@ -1,0 +1,15 @@
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/bin/Debug/net7.0/ADT
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/bin/Debug/net7.0/ADT.deps.json
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/bin/Debug/net7.0/ADT.runtimeconfig.json
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/bin/Debug/net7.0/ADT.dll
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/bin/Debug/net7.0/ADT.pdb
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.csproj.AssemblyReference.cache
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.GeneratedMSBuildEditorConfig.editorconfig
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.AssemblyInfoInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.AssemblyInfo.cs
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.csproj.CoreCompileInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.dll
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/refint/ADT.dll
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.pdb
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ADT.genruntimeconfig.cache
+/home/struct/Desktop/Projects/DSA_Course/DSA_C#_YT/ADT/obj/Debug/net7.0/ref/ADT.dll

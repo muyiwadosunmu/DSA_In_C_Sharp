@@ -1,0 +1,15 @@
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.csproj.AssemblyReference.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.AssemblyInfoInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.AssemblyInfo.cs
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.csproj.CoreCompileInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/bin/Debug/net7.0/Part_1
+/home/struct/Desktop/Projects/DSA_Course/Part_1/bin/Debug/net7.0/Part_1.deps.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/bin/Debug/net7.0/Part_1.runtimeconfig.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/bin/Debug/net7.0/Part_1.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/bin/Debug/net7.0/Part_1.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/refint/Part_1.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/Part_1.genruntimeconfig.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/obj/Debug/net7.0/ref/Part_1.dll

@@ -1,0 +1,14 @@
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/bin/Debug/net8.0/Stacks
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/bin/Debug/net8.0/Stacks.deps.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/bin/Debug/net8.0/Stacks.runtimeconfig.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/bin/Debug/net8.0/Stacks.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/bin/Debug/net8.0/Stacks.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.AssemblyInfoInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.AssemblyInfo.cs
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.csproj.CoreCompileInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/refint/Stacks.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/Stacks.genruntimeconfig.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Stacks/obj/Debug/net8.0/ref/Stacks.dll

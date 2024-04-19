@@ -1,0 +1,14 @@
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/bin/Debug/net8.0/Linked-List.deps.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/bin/Debug/net8.0/Linked-List.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/bin/Debug/net8.0/Linked-List.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.GeneratedMSBuildEditorConfig.editorconfig
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.AssemblyInfoInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.AssemblyInfo.cs
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.csproj.CoreCompileInputs.cache
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/refint/Linked-List.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.pdb
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/ref/Linked-List.dll
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/bin/Debug/net8.0/Linked-List
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/bin/Debug/net8.0/Linked-List.runtimeconfig.json
+/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/obj/Debug/net8.0/Linked-List.genruntimeconfig.cache

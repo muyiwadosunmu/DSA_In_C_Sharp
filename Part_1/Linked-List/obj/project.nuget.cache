@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmMqF96W8GaiR2XB/ZVHo3UFnLkRywZaNa+JLXrhtQ+0+O0SFqxaRjfZ1Cm9ye9HuCHSze3FxvpQOlypuJyLMA==",
+  "success": true,
+  "projectFilePath": "/home/struct/Desktop/Projects/DSA_Course/Part_1/Linked-List/Linked-List.csproj",
+  "expectedPackageFiles": [
+    "/home/struct/.nuget/packages/microsoft.netcore.app.ref/8.0.3/microsoft.netcore.app.ref.8.0.3.nupkg.sha512",
+    "/home/struct/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512",
+    "/home/struct/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.3/microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
